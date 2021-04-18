@@ -2,8 +2,8 @@
     - [React](前端/react/)
     - [Vue](前端/vue/)
 - 后端
-    - [React](前端/react/)
-    - [Vue](前端/vue/)
+    - [Node](后端/node/)
+    - [PHP](后端/php/)
 - 数据库
 - 服务器
 - 其他
