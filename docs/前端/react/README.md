@@ -228,7 +228,6 @@
                 myRef = React.createRef()     <input ref={this.myRef}/>
                 //调用后返回一个容器,存储被ref标识的节点,该容器只能存一个
                 ```
-    
 * 事件处理
 
     1. 通过onXxx属性指定事件处理函数(注意大小写)
