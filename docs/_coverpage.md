@@ -8,5 +8,4 @@
 * 希望学会更多，渴望成为大佬（狗头👀）
 
 [Click Start](README.md)
-[Github1](https://github.com/Rookier1)
-[Github2](https://github.com/Hlacer)
+[Github](https://github.com/Rookier1)
